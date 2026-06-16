@@ -1,9 +1,9 @@
 # swift-filestore
 Lightweight key-value store with Structured Concurrency API. 
 
-![MIT License](https://img.shields.io/github/license/yanjun72/swift-filestore)
-![Package Releases](https://img.shields.io/github/v/release/yanjun72/swift-filestore)
-![Build Results](https://img.shields.io/github/actions/workflow/status/yanjun72/swift-filestore/.github/workflows/swift.yml?branch=main)
+![MIT License](https://img.shields.io/github/license/junyan72/swift-filestore)
+![Package Releases](https://img.shields.io/github/v/release/junyan72/swift-filestore)
+![Build Results](https://img.shields.io/github/actions/workflow/status/junyan72/swift-filestore/.github/workflows/swift.yml?branch=main)
 ![Swift Version](https://img.shields.io/badge/swift-5.5-critical)
 ![Supported Platforms](https://img.shields.io/badge/platform-iOS%2014%20%7C%20macOS%2012-lightgrey)
 
